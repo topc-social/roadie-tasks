@@ -8,3 +8,5 @@ Units: 1 Neki = 1 rupee of work at today's market price, priced from TOPC's rate
 |---|---|---|---|---|---|---|
 | 1 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #3: Find which dashcams let you send clips to your own cloud | 90 | provisional | https://github.com/topc-social/roadie-tasks/pull/5 |
 | 2 | 2026-11-27 | Kamal Khatwani | Work (99%) on #3: Find which dashcams let you send clips to your own cloud | 8,910 | provisional | https://github.com/topc-social/roadie-tasks/pull/5 |
+| 3 | 2026-11-27 | Kamal Khatwani | Idea (1%) for #4: Set up Roadie's task board and first tasks | 8 | provisional | https://github.com/topc-social/roadie-tasks/issues/4 |
+| 4 | 2026-11-27 | Kamal Khatwani (via Claude) | Work (99%) on #4: Set up Roadie's task board and first tasks | 792 | provisional | https://github.com/topc-social/roadie-tasks/issues/4 |
